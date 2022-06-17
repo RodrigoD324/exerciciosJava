@@ -47,6 +47,14 @@ public class Main {
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 6
 		exercicio6 Exercicio6 = new exercicio6();
 		int resultadoExerc6 = Exercicio6.Exercicio6(num_exerc6, sucessor_exerc6, antecessor_exerc6);
+		
+		//variáveis necessárias para realização do exercício 7
+		double num_exerc7 = 0;
+		double dobro_exerc7 = 0;
+		double terca_exerc7 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 7
+		exercicio7 Exercicio7 = new exercicio7();
+		Double resultadoExerc7 = Exercicio7.Exercicio7(num_exerc7, dobro_exerc7, terca_exerc7);
 
 	}
 }
