@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 //Crie um algoritmo que leia um número real e mostre na tela o seu dobro e a sua terça parte.
 
-
 public class exercicio7 {
 
 	public Double Exercicio7(double num_exerc7 , double dobro_exerc7 , double terca_exerc7) {
