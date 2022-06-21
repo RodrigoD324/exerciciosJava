@@ -34,7 +34,6 @@ public class Exercicio28 {
 				System.out.printf("\n¡REA IGUAL A %dM QUADRADOS!  SITUA«√O: TERRENO MASTER!\n", area_exerc28);
 				
 			}
-
 		}
 		
 		System.out.println("\n====================================================================================================================\n");

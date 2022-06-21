@@ -25,7 +25,16 @@ public class Main {
 	int area_exerc28 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 28
 	Exercicio28 exercicio28 = new Exercicio28();
-	int resultadoExerc28 = exercicio28.exercicio28(largura_exerc28, comprimento_exerc28, area_exerc28);
+	//int resultadoExerc28 = exercicio28.exercicio28(largura_exerc28, comprimento_exerc28, area_exerc28);
+	
+	//variáveis necessárias para realização do exercício 29
+	String nome_exerc29 = null;
+	int anos_exerc29 = 0;
+	double salario_exerc29 = 0;
+	double novoSalario_exerc29 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 29
+	Exercicio29 exercicio29 = new Exercicio29();
+	Double resultadoExerc29 = exercicio29.exercicio29(nome_exerc29, salario_exerc29, anos_exerc29, novoSalario_exerc29);
 	
 	
 	}
