@@ -17,7 +17,16 @@ public class Main {
 	double media_exerc27 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 27
 	Exercicio27 exercicio27 = new Exercicio27();
-	Double resultadoExerc27 = exercicio27.exercicio27(nota1_exerc27, nota2_exerc27, media_exerc27);
+	//Double resultadoExerc27 = exercicio27.exercicio27(nota1_exerc27, nota2_exerc27, media_exerc27);
+	
+	//variáveis necessárias para realização do exercício 28
+	int largura_exerc28 = 0;
+	int comprimento_exerc28 = 0;
+	int area_exerc28 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 28
+	Exercicio28 exercicio28 = new Exercicio28();
+	int resultadoExerc28 = exercicio28.exercicio28(largura_exerc28, comprimento_exerc28, area_exerc28);
+	
 	
 	}
 
