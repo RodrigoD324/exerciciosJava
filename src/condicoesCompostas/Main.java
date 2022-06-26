@@ -55,7 +55,17 @@ public class Main {
 	String num_exerc32 = null;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 32
 	Exercicio32 exercicio32 = new Exercicio32();
-	String resultadoExerc32 = exercicio32.exercicio32(num_exerc32);
+	//String resultadoExerc32 = exercicio32.exercicio32(num_exerc32);
+	
+	//variáveis necessárias para realização do exercício 33
+	double valorCasa_exerc33 = 0;
+	double salario_exerc33 = 0;
+	double valorPrestacao_exerc33 = 0;
+	int meses_exerc33 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 33
+	Exercicio33 exercicio33 = new Exercicio33();
+	Double resultadoExerc33 = exercicio33.exercicio33(valorCasa_exerc33, salario_exerc33, meses_exerc33, valorPrestacao_exerc33);
+	
 	
 	}
 }
