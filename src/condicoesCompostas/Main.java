@@ -64,7 +64,14 @@ public class Main {
 	int meses_exerc33 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 33
 	Exercicio33 exercicio33 = new Exercicio33();
-	Double resultadoExerc33 = exercicio33.exercicio33(valorCasa_exerc33, salario_exerc33, meses_exerc33, valorPrestacao_exerc33);
+	//Double resultadoExerc33 = exercicio33.exercicio33(valorCasa_exerc33, salario_exerc33, meses_exerc33, valorPrestacao_exerc33);
+	
+	//variáveis necessárias para realização do exercício 34
+	double peso_exerc34 = 0;
+	double altura_exerc34 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 34
+	Exercicio34 exercicio34 = new Exercicio34();
+	Double resultadoExerc34 = exercicio34.exercicio34(peso_exerc34, altura_exerc34);
 	
 	
 	}
