@@ -32,7 +32,7 @@ public class Exercicio31 {
 			
 			if ((jogador2_exerc31.equals(pedra_exerc31) && jogador1_exerc31.equals(tesoura_exerc31)) || (jogador2_exerc31.equals(papel_exerc31) && jogador1_exerc31.equals(pedra_exerc31)) || (jogador2_exerc31.equals(tesoura_exerc31) && jogador1_exerc31.equals(papel_exerc31))) {
 				
-				System.out.printf("\nJOGADOR 1 = %s | JOGADOR 2 = %s", jogador2_exerc31, jogador1_exerc31);
+				System.out.printf("\nJOGADOR 1 = %s | JOGADOR 2 = %s", jogador1_exerc31, jogador2_exerc31);
 				System.out.printf("\n\nLOGO JOGADOR 2 VENCEU! POIS %s VENCE %s!\n", jogador2_exerc31, jogador1_exerc31);
 				
 			} else {

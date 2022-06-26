@@ -9,7 +9,7 @@ public class Main {
 	int num2_exerc26 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 26
 	Exercicio26 exercicio26 = new Exercicio26();
-	//int resultadoExerc26 = exercicio26.exercicio26(num1_exerc26, num2_exerc26);
+	int resultadoExerc26 = exercicio26.exercicio26(num1_exerc26, num2_exerc26);
 
 	//variáveis necessárias para realização do exercício 27
 	double nota1_exerc27 = 0;
@@ -17,7 +17,7 @@ public class Main {
 	double media_exerc27 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 27
 	Exercicio27 exercicio27 = new Exercicio27();
-	//Double resultadoExerc27 = exercicio27.exercicio27(nota1_exerc27, nota2_exerc27, media_exerc27);
+	Double resultadoExerc27 = exercicio27.exercicio27(nota1_exerc27, nota2_exerc27, media_exerc27);
 	
 	//variáveis necessárias para realização do exercício 28
 	int largura_exerc28 = 0;
@@ -25,7 +25,7 @@ public class Main {
 	int area_exerc28 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 28
 	Exercicio28 exercicio28 = new Exercicio28();
-	//int resultadoExerc28 = exercicio28.exercicio28(largura_exerc28, comprimento_exerc28, area_exerc28);
+	int resultadoExerc28 = exercicio28.exercicio28(largura_exerc28, comprimento_exerc28, area_exerc28);
 	
 	//variáveis necessárias para realização do exercício 29
 	String nome_exerc29 = null;
@@ -34,7 +34,7 @@ public class Main {
 	double novoSalario_exerc29 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 29
 	Exercicio29 exercicio29 = new Exercicio29();
-	//Double resultadoExerc29 = exercicio29.exercicio29(nome_exerc29, salario_exerc29, anos_exerc29, novoSalario_exerc29);
+	Double resultadoExerc29 = exercicio29.exercicio29(nome_exerc29, salario_exerc29, anos_exerc29, novoSalario_exerc29);
 	
 	//variáveis necessárias para realização do exercício 30
 	int a_exerc30 = 0;
@@ -42,20 +42,20 @@ public class Main {
 	int c_exerc30 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 30
 	Exercicio30 exercicio30 = new Exercicio30();
-	//int resultadoExerc30 = exercicio30.exercicio30(a_exerc30, b_exerc30, c_exerc30);
+	int resultadoExerc30 = exercicio30.exercicio30(a_exerc30, b_exerc30, c_exerc30);
 	
 	//variáveis necessárias para realização do exercício 31
 	String jogador1_exerc31 = null;
 	String jogador2_exerc31 = null;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 31
 	Exercicio31 exercicio31 = new Exercicio31();
-	//String resultadoExerc31 = exercicio31.exercicio31(jogador1_exerc31, jogador2_exerc31);
+	String resultadoExerc31 = exercicio31.exercicio31(jogador1_exerc31, jogador2_exerc31);
 	
 	//variáveis necessárias para realização do exercício 32
 	String num_exerc32 = null;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 32
 	Exercicio32 exercicio32 = new Exercicio32();
-	//String resultadoExerc32 = exercicio32.exercicio32(num_exerc32);
+	String resultadoExerc32 = exercicio32.exercicio32(num_exerc32);
 	
 	//variáveis necessárias para realização do exercício 33
 	double valorCasa_exerc33 = 0;
@@ -64,14 +64,14 @@ public class Main {
 	int meses_exerc33 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 33
 	Exercicio33 exercicio33 = new Exercicio33();
-	//Double resultadoExerc33 = exercicio33.exercicio33(valorCasa_exerc33, salario_exerc33, meses_exerc33, valorPrestacao_exerc33);
+	Double resultadoExerc33 = exercicio33.exercicio33(valorCasa_exerc33, salario_exerc33, meses_exerc33, valorPrestacao_exerc33);
 	
 	//variáveis necessárias para realização do exercício 34
 	double peso_exerc34 = 0;
 	double altura_exerc34 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 34
 	Exercicio34 exercicio34 = new Exercicio34();
-	//Double resultadoExerc34 = exercicio34.exercicio34(peso_exerc34, altura_exerc34);
+	Double resultadoExerc34 = exercicio34.exercicio34(peso_exerc34, altura_exerc34);
 	
 	//variáveis necessárias para realização do exercício 35
 	String tipoCarro_exerc34 = null;
@@ -80,6 +80,21 @@ public class Main {
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 35
 	Exercicio35 exercicio35 = new Exercicio35();
 	Double resultadoExerc35 = exercicio35.exercicio35(tipoCarro_exerc34, diasAluguel_exerc34, km_exerc34);
+	
+	//variáveis necessárias para realização do exercício 36
+	double horas_exerc36 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 36
+	Exercicio36 exercicio36 = new Exercicio36();
+	int resultadoExerc36 = exercicio36.exercicio36(horas_exerc36);
+	
+	//variáveis necessárias para realização do exercício 37
+	String genero_exerc37 = null;
+	double salario_exerc37 = 0;
+	int anos_exerc37 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 37
+	Exercicio37 exercicio37 = new Exercicio37();
+	Double resultadoExerc37 = exercicio37.exercicio37(salario_exerc37, genero_exerc37, anos_exerc37);
+	
 		
 	}
 }
