@@ -71,8 +71,15 @@ public class Main {
 	double altura_exerc34 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 34
 	Exercicio34 exercicio34 = new Exercicio34();
-	Double resultadoExerc34 = exercicio34.exercicio34(peso_exerc34, altura_exerc34);
+	//Double resultadoExerc34 = exercicio34.exercicio34(peso_exerc34, altura_exerc34);
 	
-	
+	//variáveis necessárias para realização do exercício 35
+	String tipoCarro_exerc34 = null;
+	int diasAluguel_exerc34 = 0;
+	double km_exerc34 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 35
+	Exercicio35 exercicio35 = new Exercicio35();
+	Double resultadoExerc35 = exercicio35.exercicio35(tipoCarro_exerc34, diasAluguel_exerc34, km_exerc34);
+		
 	}
 }
