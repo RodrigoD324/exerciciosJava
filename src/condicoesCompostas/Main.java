@@ -34,9 +34,23 @@ public class Main {
 	double novoSalario_exerc29 = 0;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 29
 	Exercicio29 exercicio29 = new Exercicio29();
-	Double resultadoExerc29 = exercicio29.exercicio29(nome_exerc29, salario_exerc29, anos_exerc29, novoSalario_exerc29);
+	//Double resultadoExerc29 = exercicio29.exercicio29(nome_exerc29, salario_exerc29, anos_exerc29, novoSalario_exerc29);
+	
+	//variáveis necessárias para realização do exercício 30
+	int a_exerc30 = 0;
+	int b_exerc30 = 0;
+	int c_exerc30 = 0;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 30
+	Exercicio30 exercicio30 = new Exercicio30();
+	//int resultadoExerc30 = exercicio30.exercicio30(a_exerc30, b_exerc30, c_exerc30);
+	
+	//variáveis necessárias para realização do exercício 31
+	String jogador1_exerc31 = null;
+	String jogador2_exerc31 = null;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 31
+	Exercicio31 exercicio31 = new Exercicio31();
+	String resultadoExerc31 = exercicio31.exercicio31(jogador1_exerc31, jogador2_exerc31);
 	
 	
 	}
-
 }

@@ -19,6 +19,10 @@ public class Exercicio25 {
 		System.out.println("Digite valor do segmento 'c' --> ");
 		c_exerc25 = input.nextInt();
 		
+		//| b - c | < a < b + c
+		//| a - c | < b < a + c
+		//| a - b | < c < a + b
+		
 		int auxiliarA1_exerc25 = b_exerc25 - c_exerc25;
 		int auxiliarA2_exerc25 = b_exerc25 + c_exerc25;
 		
