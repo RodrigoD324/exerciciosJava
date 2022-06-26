@@ -23,8 +23,6 @@ public class Exercicio31 {
 		String papel_exerc31 = "PAPEL";
 		String tesoura_exerc31 = "TESOURA";
 		
-		//|| (jogador1_exerc31 == papel_exerc31 && jogador2_exerc31 == pedra_exerc31) || (jogador1_exerc31 == tesoura_exerc31 && jogador2_exerc31 == papel_exerc31)
-		
 		if ((jogador1_exerc31.equals(pedra_exerc31) && jogador2_exerc31.equals(tesoura_exerc31)) || (jogador1_exerc31.equals(papel_exerc31) && jogador2_exerc31.equals(pedra_exerc31)) || (jogador1_exerc31.equals(tesoura_exerc31) && jogador2_exerc31.equals(papel_exerc31))) {
 			
 			System.out.printf("\nJOGADOR 1 = %s | JOGADOR 2 = %s", jogador1_exerc31, jogador2_exerc31);

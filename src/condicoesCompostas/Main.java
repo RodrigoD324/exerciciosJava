@@ -49,8 +49,13 @@ public class Main {
 	String jogador2_exerc31 = null;
 	//chamado da classe, objeto e dos devidos métodos para realização do exercício 31
 	Exercicio31 exercicio31 = new Exercicio31();
-	String resultadoExerc31 = exercicio31.exercicio31(jogador1_exerc31, jogador2_exerc31);
+	//String resultadoExerc31 = exercicio31.exercicio31(jogador1_exerc31, jogador2_exerc31);
 	
+	//variáveis necessárias para realização do exercício 32
+	String num_exerc32 = null;
+	//chamado da classe, objeto e dos devidos métodos para realização do exercício 32
+	Exercicio32 exercicio32 = new Exercicio32();
+	String resultadoExerc32 = exercicio32.exercicio32(num_exerc32);
 	
 	}
 }
