@@ -7,10 +7,34 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner (System.in);
-		
+		//variáveis necessárias para realização do exercício 38
 		int contagem_exerc38 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 38
 		Exercicio38 exercicio38 = new Exercicio38();
 		int resultadoExerc38 = exercicio38.exercicio38(contagem_exerc38);
-
+		
+		//variáveis necessárias para realização do exercício 39
+		int contagem_exerc39 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 39
+		Exercicio39 exercicio39 = new Exercicio39();
+		int resultadoExerc39 = exercicio39.exercicio39(contagem_exerc39);
+		
+		//variáveis necessárias para realização do exercício 40
+		int contagem_exerc40 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 40
+		Exercicio40 exercicio40 = new Exercicio40();
+		int resultadoExerc40 = exercicio40.exercicio40(contagem_exerc40);
+		
+		//variáveis necessárias para realização do exercício 41
+		int contagem_exerc41 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 41
+		Exercicio41 exercicio41 = new Exercicio41();
+		int resultadoExerc41 = exercicio41.exercicio41(contagem_exerc41);
+		
+		//variáveis necessárias para realização do exercício 42
+		int contagem_exerc42 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 42
+		Exercicio42 exercicio42 = new Exercicio42();
+		int resultadoExerc42 = exercicio42.exercicio42(contagem_exerc42);
 	}
 }
