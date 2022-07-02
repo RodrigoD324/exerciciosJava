@@ -49,6 +49,14 @@ public class Main {
 		int incremento_exerc44 = 0;
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 44
 		Exercicio44 exercicio44 = new Exercicio44();
-		int resultadoExerc44 = exercicio44.exercicio44(valorInicial_exerc44, valorFinal_exerc44, incremento_exerc44);
+		//int resultadoExerc44 = exercicio44.exercicio44(valorInicial_exerc44, valorFinal_exerc44, incremento_exerc44);
+
+		//variáveis necessárias para realização do exercício 45
+		int valorInicial_exerc45 = 0;
+		int valorFinal_exerc45 = 0;
+		int incremento_exerc45 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 45
+		Exercicio45 exercicio45 = new Exercicio45();
+		int resultadoExerc45 = exercicio45.exercicio45(valorInicial_exerc45, valorFinal_exerc45, incremento_exerc45);
 	}
 }
