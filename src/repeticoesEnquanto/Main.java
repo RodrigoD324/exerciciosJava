@@ -71,11 +71,18 @@ public class Main {
 		Exercicio47 exercicio47 = new Exercicio47();
 		//int resultadoExerc47 = exercicio47.exercicio47(contagem_exerc47);
 		
+		//variáveis necessárias para realização do exercício 48
 		int numero_exerc48 = 0;
 		int soma_exerc48 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 48
 		Exercicio48 exercicio48 = new Exercicio48();
-		int resultadoExerc48 = exercicio48.exercicio48(numero_exerc48, soma_exerc48);
+		//int resultadoExerc48 = exercicio48.exercicio48(numero_exerc48, soma_exerc48);
 		
+		//variáveis necessárias para realização do exercício 49
+		int numero_exerc49 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 49
+		Exercicio49 exercicio49 = new Exercicio49();
+		int resultadoExerc49 = exercicio49.exercicio49(numero_exerc49);
 		
 	}
 }
