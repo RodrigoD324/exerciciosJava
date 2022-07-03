@@ -88,7 +88,13 @@ public class Main {
 		int contagem_exerc50 = 0;
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 50
 		Exercicio50 exercicio50 = new Exercicio50();
-		Double resultadoExerc50 = exercicio50.exercicio50(contagem_exerc50);
+		//Double resultadoExerc50 = exercicio50.exercicio50(contagem_exerc50);
+		
+		//variáveis necessárias para realização do exercício 51
+		double preco_exerc51 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 51
+		Exercicio51 exercicio51 = new Exercicio51();
+		Double resultadoExerc51 = exercicio51.exercicio51(preco_exerc51);
 		
 	}
 }
