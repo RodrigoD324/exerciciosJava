@@ -11,5 +11,5 @@ Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica
 
 ## Sequências Básicas
 <div align="center">
-<img src ="https://github.com/RodrigoD324/exerciciosJava/blob/master/sequênciasBásicas.gif" width="1000px" />
+<img src ="https://github.com/RodrigoD324/exerciciosJava/blob/master/sequênciasBásicas.gif" width="1100px" />
 </div>
