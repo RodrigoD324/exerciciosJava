@@ -101,7 +101,14 @@ public class Main {
 		int media_exerc52 = 0;
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 52
 		Exercicio52 exercicio52 = new Exercicio52();
-		int resultadoExerc52 = exercicio52.exercicio52(idade_exerc52, media_exerc52);
+		//int resultadoExerc52 = exercicio52.exercicio52(idade_exerc52, media_exerc52);
+		
+		//variáveis necessárias para realização do exercício 53
+		int idade_exerc53 = 0;
+		String sexo_exerc53 = null;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 53
+		Exercicio53 exercicio53 = new Exercicio53();
+		int resultadoExerc53 = exercicio53.exercicio53(idade_exerc53, sexo_exerc53);
 		
 	}
 }
