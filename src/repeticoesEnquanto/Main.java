@@ -94,7 +94,14 @@ public class Main {
 		double preco_exerc51 = 0;
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 51
 		Exercicio51 exercicio51 = new Exercicio51();
-		Double resultadoExerc51 = exercicio51.exercicio51(preco_exerc51);
+		//Double resultadoExerc51 = exercicio51.exercicio51(preco_exerc51);
+		
+		//variáveis necessárias para realização do exercício 52
+		int idade_exerc52 = 0;
+		int media_exerc52 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 52
+		Exercicio52 exercicio52 = new Exercicio52();
+		int resultadoExerc52 = exercicio52.exercicio52(idade_exerc52, media_exerc52);
 		
 	}
 }
