@@ -13,3 +13,8 @@ Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica
 <div align="center">
 <img src ="https://github.com/RodrigoD324/exerciciosJava/blob/master/sequênciasBásicas.gif" width="1100px" />
 </div>
+
+## Condições Básicas
+<div align="center">
+<img src ="https://github.com/RodrigoD324/exerciciosJava/blob/master/condiçõesBásicas.gif" width="1100px" />
+</div>
