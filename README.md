@@ -1,4 +1,4 @@
-# exerciciosJava
+# Exercícios com Java
 Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica de programação, Java e POO.
 
 ## Link do PDF com os exercícios aos quais eu realizo!
@@ -9,7 +9,7 @@ Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica
 
 - https://www.cursoemvideo.com/curso/curso-de-algoritmo/
 
-<br>
+## Sequências Básicas
 <div align="center">
-<img src ="" width="1000px" />
+<img src ="https://github.com/RodrigoD324/exerciciosJava/blob/master/sequênciasBásicas.gif" width="1000px" />
 </div>
