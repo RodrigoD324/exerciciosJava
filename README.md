@@ -8,3 +8,8 @@ Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica
 ## Link do curso pelo qual estou estudando algoritmos e lógica de programação!
 
 - https://www.cursoemvideo.com/curso/curso-de-algoritmo/
+
+<br>
+<div align="center">
+<img src ="" width="1000px" />
+</div>
