@@ -58,9 +58,19 @@ public class Main {
 		//chamado da classe, objeto e dos devidos métodos para realização do exercício 45
 		Exercicio45 exercicio45 = new Exercicio45();
 		//int resultadoExerc45 = exercicio45.exercicio45(valorInicial_exerc45, valorFinal_exerc45, incremento_exerc45);
-		
+
+		//variáveis necessárias para realização do exercício 46
 		int contagem_exerc46 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 46
 		Exercicio46 exercicio46 = new Exercicio46();
-		int resultadoExerc46 = exercicio46.exercicio46(contagem_exerc46);
+		//int resultadoExerc46 = exercicio46.exercicio46(contagem_exerc46);
+		
+		//variáveis necessárias para realização do exercício 47
+		int contagem_exerc47 = 0;
+		//chamado da classe, objeto e dos devidos métodos para realização do exercício 47
+		Exercicio47 exercicio47 = new Exercicio47();
+		int resultadoExerc47 = exercicio47.exercicio47(contagem_exerc47);
+		
+		
 	}
 }

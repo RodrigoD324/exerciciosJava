@@ -14,19 +14,19 @@ public class Exercicio46 {
 		
 		System.out.printf("Pressione tecla '6' --> ");
 		contagem_exerc46 = input.nextInt();
-		int auxiliar1_exerc46 = 0;
+		int auxiliar_exerc46 = 0;
 		
 		while (contagem_exerc46 <= 100) {
 			
 			if (contagem_exerc46 == 100) {
 				
-				auxiliar1_exerc46 += contagem_exerc46;
+				auxiliar_exerc46 += contagem_exerc46;
 				System.out.printf("%d.", contagem_exerc46);
 				contagem_exerc46 = contagem_exerc46 + 2;
 				
 			} else {
 				
-				auxiliar1_exerc46 += contagem_exerc46;
+				auxiliar_exerc46 += contagem_exerc46;
 				System.out.printf("%d + ", contagem_exerc46);
 				contagem_exerc46 = contagem_exerc46 + 2;
 				
@@ -34,7 +34,7 @@ public class Exercicio46 {
 				
 		}
 		
-		System.out.printf("\n\nResultado da soma: %d", auxiliar1_exerc46);
+		System.out.printf("\n\nResultado da soma: %d", auxiliar_exerc46);
 		
 		System.out.printf("\n\n====================================================================================================================\n");
 		
