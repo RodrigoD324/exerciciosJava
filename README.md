@@ -1,4 +1,4 @@
-# Exercícios com Java
+# Exercicios com Java
 Criado com objetivo a guardar meus exercícios que utilizo para praticar lógica de programação, Java e POO.
 
 ## Link do PDF com os exercícios aos quais eu realizo!
